@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customerList>
+<customer id="C01">
+	<name>Smith Granage</name>
+	<contact>
+		<home>07624353</home>
+		<cellphone>021356384763</cellphone>
+	</contact>
+	<address> 
+		<city>Wellington</city>
+		<suburb>Lower Hut</suburb>
+		<postcode>38746583</postcode>
+	</address>
+</customer>
+
+<customer id="C02">
+	<name>Latrisha Drew</name>
+	<contact>
+		<home>0622983744</home>
+		<cellphone>022356384764</cellphone>
+	</contact>
+	<address> 
+		<city>Hamilton</city>
+		<suburb>City</suburb>
+		<postcode>847984</postcode>
+	</address>
+</customer>
+
+<customer id="C03">
+	<name>Marcene Vides</name>
+	<contact>
+		<home>0445987983</home>
+		<cellphone>0213948593844</cellphone>
+	</contact>
+	<address> 
+		<city>Auckland</city>
+		<suburb>CBD</suburb>
+		<postcode>83574393</postcode>
+	</address>
+</customer>
+
+<customer id="C04">
+	<name>John Goll</name>
+	<contact>
+		<home>0739847584</home>
+		<cellphone>020765476893</cellphone>
+	</contact>
+	<address> 
+		<city>Wellington</city>
+		<suburb>Churton Park</suburb>
+		<postcode>9384572</postcode>
+	</address>
+</customer>
+</customerList>

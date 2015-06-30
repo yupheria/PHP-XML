@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productList>
+<product>
+	<name>Furniture</name>
+	<price>1000</price>
+	<buyer>C01</buyer>
+	<buyer>C03</buyer>
+</product>
+<product>
+	<name>Carpet</name>
+	<price>2000</price>
+	<buyer>C02</buyer>
+	<buyer>C04</buyer>
+</product>
+</productList>
